@@ -1,0 +1,34 @@
+body {
+  font-family: Arial, Helvetica, sans-serif;
+  margin: 0;
+  padding: 0;
+  height: 100vh;
+}
+
+/* container of post section */
+
+.container {
+  margin: 50px 0px;
+  text-align: center;
+  background: white;
+  padding: 20px;
+  border-radius: 8px;
+  box-shadow: 4px 2px 10px rgba(0, 0, 0, 0.5);
+}
+
+/* display content  */
+.content {
+  margin-top: 20px;
+  font-size: 18px;
+  max-height: 50vh;
+  overflow-y: auto;
+}
+
+/* footer  */
+footer {
+  text-align: center;
+  width: 100%;
+  background-color: #000;
+  color: #fff;
+  padding: 10px 0px;
+}
